@@ -1,0 +1,30 @@
+D:\Project\C шарп\prl--9\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Project\C шарп\prl--9\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Project\C шарп\prl--9\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Project\C шарп\prl--9\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Project\C шарп\prl--9\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Project\C шарп\prl--9\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Project\C шарп\prl--9\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C шарп\prl--9\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Project\C шарп\prl--9\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Project\C шарп\prl--9\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Project\C шарп\prl--9\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Project\C шарп\prl--9\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\Project\C шарп\prl--9\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Project\C шарп\prl--9\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\Project\C шарп\prl--9\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+D:\Project\c шарп\9-я практческая\ConsoleApp2\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Project\c шарп\9-я практческая\ConsoleApp2\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Project\c шарп\9-я практческая\ConsoleApp2\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Project\c шарп\9-я практческая\ConsoleApp2\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Project\c шарп\9-я практческая\ConsoleApp2\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Project\c шарп\9-я практческая\ConsoleApp2\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Project\c шарп\9-я практческая\ConsoleApp2\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\c шарп\9-я практческая\ConsoleApp2\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Project\c шарп\9-я практческая\ConsoleApp2\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Project\c шарп\9-я практческая\ConsoleApp2\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Project\c шарп\9-я практческая\ConsoleApp2\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Project\c шарп\9-я практческая\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\Project\c шарп\9-я практческая\ConsoleApp2\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Project\c шарп\9-я практческая\ConsoleApp2\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\Project\c шарп\9-я практческая\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp1.dll
